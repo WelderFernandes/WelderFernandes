@@ -25,11 +25,8 @@
 <div> 
 
   [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=Arcane+Tech)
-
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weldernfernandes)
-
   [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welderx3@gmail.com)
-
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welder-n-fernandes)
 
 
