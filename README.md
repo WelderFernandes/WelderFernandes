@@ -20,7 +20,6 @@
 </div>
 
   ##
-  [![E-mail](https://i.gifer.com/ZJFD.gif)](mailto:welderx3@gmail.com)
   
 <div> 
 
@@ -29,6 +28,7 @@
   [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welderx3@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welder-n-fernandes)
 
+  ##
 
   ![Snake animation](https://github.com/welderfernandes/welderfernandes/blob/output/github-contribution-grid-snake.svg)
  
