@@ -19,9 +19,9 @@
   
 </div>
 
-  
   ##
- 
+  [![E-mail](https://i.gifer.com/ZJFD.gif)](mailto:welderx3@gmail.com)
+  
 <div> 
 
   [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/developer?id=Arcane+Tech)
